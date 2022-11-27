@@ -1,3 +1,3 @@
 git add .
-git commit -m "tes"
+git commit -m "terbaru"
 git push origin master
